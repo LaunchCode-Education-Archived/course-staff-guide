@@ -7,7 +7,6 @@ currentMenu: teaching-fellows
 
 Welcome to LaunchCode! We hope you are as excited as we are to dive into being a Teaching Fellow (TF). LaunchCode students regularly cite Teaching Fellows as one of the most important factors in their success, and for TFs, working with the class typically proves to be a greatly rewarding experience. This guide will provide introductory guidelines and best practices to get you started in your role. 
 
-## 
 Content | Link | Summary
 |----|------------|-------------|
 Qualifications | [Background of TFs](../tf-details/) | What a TF ought to have to succeed
