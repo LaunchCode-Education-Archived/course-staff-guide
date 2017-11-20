@@ -32,4 +32,3 @@ currentMenu: job-description
 <dt>Minor Duties</dt>
     <dd> Participate in stand-ups and retrospectives </dd
 </dl>
-

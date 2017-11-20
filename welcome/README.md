@@ -7,4 +7,4 @@ currentMenu: welcome
 
 LaunchCode is an innovative non-profit organization giving job seekers opportunities to enter into the technology field by providing comprehensive and accessible tech education, job training, and apprenticeship placements.  
 
-We are excited to have you work with us on this journey of excellence as instructors and assistants in instruction.  It is your helping in delivering LaunchCode's free, world-class training programs, that help bring fresh tech talent to the ever growing tech world, benefiting the entire community. We appreciate everything you bring and you being on board for the journey!
+We are excited to share this journey of excellence with you as instructors and teaching fellows.  Because of your work and roll in helping students achieve while delivering LaunchCode's free, world-class training programs, students will be prepared to become apprentices enter into careers in technology competitively, bringing fresh tech talent to the ever growing tech world, benefiting the entire community. We appreciate everything you bring to LaunchCode and thank you for being on board for the journey!

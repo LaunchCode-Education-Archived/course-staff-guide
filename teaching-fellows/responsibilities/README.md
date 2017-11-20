@@ -19,4 +19,3 @@ Take attendance.
 * Attend requisite trainings
 
 ## Outside of Class
-l
