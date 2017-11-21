@@ -9,15 +9,15 @@ Welcome to LaunchCode! We hope you are as excited as we are to dive into being a
 
 | Link | Summary |
 |-----|------------|
-[Qualifications, Skill set](../qualifications/) | What a TF ought to have to succeed
-[Job Description](../job-description/) | Basic Job Description
-[Responsibilities](../responsibilities/) | What is a TF responsible for ?????? ... In progress
+[Job Description](../teaching-fellows/job-description/) | Basic overview, Job Description
+[Qualifications](../teaching-fellows/qualifications/) | Skills and Proficiences that a TF possesses
+[Responsibilities](../teaching-fellows/responsibilities/) | What does a TF do?
 [How to prepare for classes](../class-prep/) | How a teaching fellow can prepare for upcoming classes
-[What to do while in class](../in-class/) | What does a TF do while classes are in session?
-[What to do when outside of class hours](../beyond-class/) | What does a TF do when it is after class hours ?
-[Student Issues](../students/) |  ...In progress...
-[Orientation Slides](../slides//) | Slides for TF Orientation
-[How to report any issues](../issues/) | How to formally report any issues
+[In class](../teaching-fellows/in-class/) | What does a TF do while classes are in session?
+[Outside of class](../teaching-fellows/out-of-class/) | What does a TF do when it is after class hours ?
+[Student Issues](../teaching-fellows/students/) |  ...In progress...
+[Orientation Slides](../teaching-fellows/slides/) | Slides for TF Orientation
+[How to report any issues](../teaching-fellows/issues/) | How to formally report any issues
 
 
 
