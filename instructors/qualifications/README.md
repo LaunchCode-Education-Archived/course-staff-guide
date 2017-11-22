@@ -3,25 +3,22 @@ title: 'Qualifications for Lead Instructors'
 currentMenu: instructors/qualifications
 ---
 
-
 <dl>
-<dt>Skills</dt>
-    <br>
-    <dd> High level of computer programming skill, including proficiency with Python, Java, Web </dd>
-    <br>
-    <dd> Development (especially HTML, CSS, and Javascript), and SQL databases </dd>
-    <br>
-    <dd> Experience building and deploying software applications from scratch </dd>
-    <br>
-    <dd> Excellent communicator and public speaker </dd>
-    <br>
-    <dd> Excellent interpersonal and people management skills </dd>
-    <br>
-    <dd> Effective team member in high-intensity environments and able to thrive under pressure </dd>
-    <br>
-    <dd> Participate in stand-ups and retrospectives </dd>
-    <br>
-    <dd> Recommended teaching experience, but not necessary </dd>
-    <br>
+<dt>Computer Programming Skills</dt>
+    <dd> High level of computer programming skill </dd>
+    <dd> Proficiency with Python, Java, Web Developmenent (especially HTML, CSS, and Javascript), and SQL databases </dd>
+    <dd> Experience in building and deploying software applications from scratch  </dd>
 </dl>
 
+<dl>
+<dt>Education/Teaching</dt>
+    <dd> Recommeded previous teaching experience, but not necessary </dd>
+</dl>
+
+<dl>
+<dt>Management and Leadership</dt>
+    <dd> Excellent communication and public speaking abilities </dd>
+    <dd> Excellent people management skills strong interpersonal skills</dd>
+    <dd> Effective team member in high-intensity environments </dd>
+    <dd> Ability to thrive and help others thrive under pressure </dd> 
+</dl>

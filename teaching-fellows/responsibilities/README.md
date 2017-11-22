@@ -3,19 +3,23 @@ title: 'Teaching Fellow Responsibilities'
 currentMenu: responsiblities
 ---
 
-Each week, a teaching fellow is expected to spend _**6-8 hours**_ providing contracted services to LaunchCode.
+Each week, a teaching fellow is expected to spend _**6-8 hours**_ providing contracted services to LaunchCode. At least __4__ of the hours are to be spent __in class__ and how the other hours are spent, up to 4 other hours are at the discretion of the teaching fellow, whether helping students online or during study group/office hours.
 
-At least __4__ of the hours are to be spent __in class__ and how the other hours are spent, up to 4 other hours are at the discretion of the teaching fellow, whether helping students online or during study group/office hours.
+__Responsibilites__
+<dl>
+<dt>In Class</dt>
+    <dd> Attend each class </dd>
+    <dd> Take attendance </dd>
+    <dd> Help lead studios and do check-ins with students  </dd>
+    <dd> Review student assignments</dd>
+    <dd> Grade demoed assignments </dd>
+</dl>
 
-## In Class
+<dl>
+<dt>Outside of Class</dt>
+    <dd> Meet with TF group ("Advisory Group") as  review/study session  </dd>
+    <dd> Review student assignments online </dd>
+    <dd> Answer Slack quiestions </dd>
+    <dd> Get together with students as a social event  </dd>
+</dl>
 
-Attend each class.
-Take attendance.
-
-* Instruct students during class sessions. This may include: small-group lecturing, one-on-one student mentoring, and developing supplementary material. TFs will be required to attend class, which meets twice a week
-* Lead and monitor students in their “Advisory Group” (a group of students assigned to each TF), including taking attendance
-* Work with students using best practices and individual learning methods
-* Review student assignments online and in-person as students demo their code
-* Attend requisite trainings
-
-## Outside of Class

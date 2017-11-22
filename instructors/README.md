@@ -10,7 +10,7 @@ We are excited that you are an instructor at LaunchCode! As an instructor, you w
 Content | Link | Summary
 |----|------------|-------------|
 Qualifications | [Instructor Qualificiations](../instructors/qualifications) | Skills an instructor brings
-Job Description | [Job Description](../instructors) | Basic Job Description
+Job Description | [Job Description](../instructors/job-description) | Basic Job Description
 Responsibilities | [Responsibilities](../instructors) | What is Lead Instructor responsible for ?
-Class | [What to do while in class](../instructors) | Specifics of running a class
+In-class | [What to do while in class](../instructors/in-class) | Specifics of Leading a class
 After Class | [Class support beyond session](../instructors) | Support activity
