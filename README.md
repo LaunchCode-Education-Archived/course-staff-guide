@@ -11,9 +11,9 @@ Link | Summary
 [Overview of Course Resources](../resources) | Overview of resources used in and during learning tracks
 
 [Welcome](../welcome/)
-- Purpose
+- [Purpose](../welcome/purpose)
 - About LaunchCode Education
-- What is LC101?
+- [What is LC101?](../courses/lc101)
 - Contributing to this resource
 
 [Instructors](../instructors)
