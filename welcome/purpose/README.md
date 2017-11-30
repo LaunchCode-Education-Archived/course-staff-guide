@@ -1,5 +1,5 @@
 ---
-title: "LaunchCode's Purpose"
+title: "LaunchCode's Mission/Purpose"
 currentMenu: welcome/purpose
 ---
 

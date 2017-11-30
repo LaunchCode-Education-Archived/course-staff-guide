@@ -9,6 +9,7 @@ LC101 is composed of 3 basic units, a fourth unit depending on the location and 
 
  LC Education Link | Summary
 |----|------------|
-[LC101](../courses/lc101) | LC101: Unit 1, Unit 2, and Unit 3, (Unit 4 specified locations)
-[Liftoff](../courses/liftoff) | For students who have graduated LC101
-[Apprenticeship/Candidate Engagement](../courses/apprentice) | The Apprenticeships and Candidate Engagememt
+[LC101](../courses/lc101) | LC101 Course Purpose and Overview
+[Units](../courses/units) | The Units, learning material used for LC101
+[Liftoff](../courses/liftoff) | Track for graduates of LC101
+[Apprenticeship/Candidate Engagement](../courses/apprentice) | The Apprenticeships
