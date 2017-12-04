@@ -44,4 +44,19 @@ The no list
 
 ## Pairing facilitation
 
+In pair programming, an agile software development technique, two programmers work together, in the case of LC101, to solve a studio problem. One team member is the driver, this is the person who writes the code or types it into the laptop.  The other team member is the navigator, the person who reviews the code being written. Roles can be switched frequently.
+
+Students get the opportunity to share aloud.  Each student will bring her or his own views to the solution. Solutions are usually reached quickly.  Programming in pairs helps build student confidence.
+
+As the TF, you will help the students get into pairs.  It is good to encourage switching and rotation of pairs on diffent studios or problem sets, offering students the opportunity to work with a variety of personalities.
+
+Just as a note, a silent partner is not collaborating, if this occurs, please ask the silent team member a question such as "what do you think we should do here?"
+ 
 ## Keeping students engaged
+
+When a student is disengaged, it is usually a sign that  a student is not comprehending the lesson or is lost.  The end result of seeing and letting a student stay disengaged is usually low performance.  Please take to the time to intervene and help the students stay engaged, contributing to an environment of support and enabling of good work practices.
+
+When there are class sessions for LC101, students are in an "active learning environment". It is important for students to take advantage of in person class sessions and stay engaged with the material.  Please help students be able to demonstrate coding with you.  
+
+
+
