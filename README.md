@@ -12,9 +12,9 @@ Link | Summary
 
 [Welcome](../course-staff-guide/welcome/)
 - [Purpose](../course-staff-guide/welcome/purpose)
-- About LaunchCode Education
+- [About LaunchCode Education](../course-staff-guide/welcome/about-education)
 - [What is LC101?](..course-staff-guide/courses/lc101)
-- Contributing to this resource
+- [Contributing to this resource](../course-staff-guide/welcome/contribution)
 
 [Instructors](../course-staff-guide/instructors)
 - Qualifications (Instructor Skill Sets)
