@@ -21,6 +21,8 @@ http://education.launchcode.org/course-staff-guide/teaching-fellows\responsibili
 http://education.launchcode.org/course-staff-guide/teaching-fellows\slides/index.html
 http://education.launchcode.org/course-staff-guide/teaching-fellows\students/index.html
 http://education.launchcode.org/course-staff-guide/welcome/index.html
+http://education.launchcode.org/course-staff-guide/welcome\about-education/index.html
+http://education.launchcode.org/course-staff-guide/welcome\contribution/index.html
 http://education.launchcode.org/course-staff-guide/welcome\lc-education/index.html
 http://education.launchcode.org/course-staff-guide/welcome\purpose/index.html
 http://education.launchcode.org/course-staff-guide/sitemap.html
