@@ -17,10 +17,10 @@ Link | Summary
 - [Contributing to this resource](../course-staff-guide/welcome/contribution)
 
 [Instructors](../course-staff-guide/instructors)
-- Qualifications (Instructor Skill Sets)
-- Job Description/Responsibilities
+- [Qualifications (Instructor Skill Sets)](../course-staff-guide/instructors/qualifications)
+- [Job Description/Responsibilities](../course-staff-guide/instructors/job-description)
 - Before class
-    - Preparation
+    - [Preparation](../course-staff-guide/instructors/pre-class-prep/#Best-ways-to-Prepare-for-class)
 - In Class
     - Typical class breakdown
     - Teaching to learners from different backgrounds
