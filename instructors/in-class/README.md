@@ -6,24 +6,24 @@ currentMenu: instructors/in-class
 #### Typical Class Breakdown
 
 Lecture on material for the day
-6:00 pm - 7:00 pm (if class starts at 6)
-5:30 pm - 6:30 pm (if class starts at 5:30)
+- 6:00 pm - 7:00 pm (if class starts at 6)
+- 5:30 pm - 6:30 pm (if class starts at 5:30)
 
 Begin Studio Walkthrough, Small Group Time
-7:00 pm - 7:30 pm (if class starts at 6)
-6:30 pm - 7:00 pm (if class starts at 5:30)
+- 7:00 pm - 7:30 pm (if class starts at 6)
+- 6:30 pm - 7:00 pm (if class starts at 5:30)
 
 Break 
-7:30 pm - 7:45 pm (if class starts at 6)
-7:00 pm - 7:15 pm (if class starts at 5:30)
+- 7:30 pm - 7:45 pm (if class starts at 6)
+- 7:00 pm - 7:15 pm (if class starts at 5:30)
 
 Studio Presentation and Bonus Problems
-7:45 pm (if class starts at 6)
-7:15 pm (if class starts at 5:30)
+- 7:45 pm (if class starts at 6)
+- 7:15 pm (if class starts at 5:30)
 
 Wrap-it Up, Closing
-8:45 pm (if class starts at 6)
-8:15 pm (if class starts at 5:30)
+- 8:45 pm (if class starts at 6)
+- 8:15 pm (if class starts at 5:30)
 
 
 
