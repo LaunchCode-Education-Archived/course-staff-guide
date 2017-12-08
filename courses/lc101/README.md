@@ -13,7 +13,7 @@ LC101 is currently set up as a 20-week class, designed to teach the skills neces
 
 For the student, this is a pass/fail course.  In order to pass, a student must complete all of the required assignments by the end of the Unit. Students who do not complete the required assignments will not pass. 
 
-The [LC101 Course material](../course-staff-guide/instructors/units) consists of 3 Units. 
+The [LC101 Course material](../course-staff-guide/courses/units) consists of 3 Units. 
 
 Link | Summary
 |------------|-------------|

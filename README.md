@@ -19,10 +19,10 @@ Link | Summary
 [Instructors](../course-staff-guide/instructors)
 - [Qualifications (Instructor Skill Sets)](../course-staff-guide/instructors/qualifications)
 - [Job Description/Responsibilities](../course-staff-guide/instructors/job-description)
-- Before class
+- [Before class](../course-staff-guide/instructors/pre-class-prep)
     - [Preparation](../course-staff-guide/instructors/pre-class-prep/#Best-ways-to-Prepare-for-class)
-- In Class
-    - Typical class breakdown
+- [In Class](../course-staff-guide/instructors/in-class)
+    - [Typical class breakdown](../course-staff-guide/instructors/in-class/#typical-class-breakdown)
     - Teaching to learners from different backgrounds
     - Types of presentations/lectures
     - Getting feedback from learners
