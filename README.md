@@ -16,49 +16,54 @@ Link | Summary
 - [What is LC101?](./courses/lc101)
 - [Contributing to this resource](./welcome/contribution)
 
-[Instructors](../course-staff-guide/instructors)
-- [Qualifications (Instructor Skill Sets)](../course-staff-guide/instructors/qualifications)
-- [Job Description/Responsibilities](../course-staff-guide/instructors/job-description)
-- [Before class](../course-staff-guide/instructors/pre-class-prep)
-    - [Preparation](../course-staff-guide/instructors/pre-class-prep/#Best-ways-to-Prepare-for-class)
-- [In Class](../course-staff-guide/instructors/in-class)
-    - [Typical class breakdown](../course-staff-guide/instructors/in-class/#typical-class-breakdown)
-    - Teaching to learners from different backgrounds
-    - Types of presentations/lectures
-    - Getting feedback from learners
-- Outside of Class
-    - Working with students
-    - Working with TFs
-    - Coaching
+<br>
+[Instructors](./instructors)
+- [Qualifications (Instructor Skill Sets)](./instructors/qualifications)
+- [Job Description/Responsibilities](./instructors/job-description)
+- [Before class](./instructors/pre-class-prep)
+    - [Preparation](./instructors/pre-class-prep/#Best-ways-to-Prepare-for-class)
+- [In Class](./instructors/in-class)
+    - [Class Times and General Structures](./instructors/in-class/#typical-class-breakdown)
+    - [Engaging Teaching Fellows](./instructors/in-class/#engaging-teaching-fellows)
+    - [Keeping Students on Track](./instructors/in-class/#keeping-students-on-track)
+    - [Teaching to learners from different backgrounds](./instructors/in-class/#teaching-to-learners-of-different-backgrounds)
+    - [Tips on delivering engaging lectures](./instructors/in-class/#tips-on-giving-engaging-lectures)
+- [Outside of Class](./instructors/our-of-class)
+    - [Working with students](./instructors/out-of-class/#working-with-students)
+    - [Working with TFs](./instructors/out-of-class/#working-with-tfs)
 
-[Teaching Fellows](../course-staff-guide/teaching-fellows)
-- [Qualifications (Teaching Fellow Skill Sets)](../course-staff-guide/teaching-fellows/qualifications)
-- [Job Description/Responsibilities](../course-staff-guide/teaching-fellows/job-description) 
-- [Before class](../course-staff-guide/teaching-fellows)
-    - Reviewing lesson material
-- [In Class](../course-staff-guide/teaching-fellows/in-class)
-    - [How to lead a group/review session](../course-staff-guide/teaching-fellows/in-class)
-    - [Helping with Studios](../course-staff-guide/teaching-fellows/in-class)
-    - [Checking in on students](../course-staff-guide/teaching-fellows/in-class)
-    - [Pairing facilitation](../course-staff-guide/teaching-fellows/in-class)
-        - [Grading](../course-staff-guide/teaching-fellows/in-class)
-        - [Attendance](../course-staff-guide/teaching-fellows/in-class)
+<br>
+[Teaching Fellows](./teaching-fellows)
+- [Qualifications (Teaching Fellow Skill Sets)](./teaching-fellows/qualifications)
+- [Job Description/Responsibilities](./teaching-fellows/job-description) 
+- [Before class](./teaching-fellows/prep-for-class)
+    - [Preparation](./teaching-fellows/prep-for-class)
+- [In Class](./teaching-fellows/in-class)
+    - [Attendance](./teaching-fellows/in-class/#attendance)
+    - [Checking in on students](./teaching-fellows/in-class/#checking-in-on-students)
+    - [Grading](./teaching-fellows/in-class/#grading)
+    - [Keeping students engaged](./teaching-fellows/in-class/#keeping-students-engaged)
+    - [Leading Studios](./teaching-fellows/in-class/#leading-studios)    
+    - [Pairing facilitation](./teaching-fellows/in-class/#pairing-facilitation)
+    - [Tips on how to lead a group/review session](./teaching-fellows/in-class/#tips-on-how-to-lead-a-small-group-session)   
+    
 - [Outside of Class](../course-staff-guide/teaching-fellows/out-of-class)
-    - [Working with students](../course-staff-guide/teaching-fellows/out-of-class)
-    - [Getting started with your group](../course-staff-guide/teaching-fellows/out-of-class)
-    - [Common student struggles](../course-staff-guide/teaching-fellows/out-of-class)
-    - [How to work with difficult students](../course-staff-guide/teaching-fellows/out-of-class)
-    - [Getting help](../course-staff-guide/teaching-fellows/out-of-class)
+    - [Working with students](.teaching-fellows/out-of-class)
+    - [Getting started with your group](./teaching-fellows/out-of-class)
+    - [Common student struggles](./teaching-fellows/out-of-class)
+    - [How to work with difficult students](./teaching-fellows/out-of-class)
+    - [Getting help](./teaching-fellows/out-of-class)
 
+<br>
 [Course Details](../course-staff-guide/courses/)
 - [LC101](../course-staff-guide/courses/lc101)
-    - [Unit 1](../course-staff-guide/courses/units)
-    - [Unit 2](../course-staff-guide/courses/units/#unit-2)
-    - [Unit 3](../course-staff-guide/courses/units/#unit-3)
+    - [Unit 1](./courses/units)
+    - [Unit 2](./courses/units/#unit-2)
+    - [Unit 3](./courses/units/#unit-3)
     - Liftoff
 - Apprenticeship/Candidate engagement overview
 
-[Course Resources](../course-staff-guide/resources)
+[Course Resources](./resources)
 - Canvas
 - GitHub (how to use)
 - GitLab
