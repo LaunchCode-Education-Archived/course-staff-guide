@@ -13,13 +13,13 @@ LC101 is currently set up as a 20-week class, designed to teach the skills neces
 
 For the student, this is a pass/fail course.  In order to pass, a student must complete all of the required assignments by the end of the Unit. Students who do not complete the required assignments will not pass. 
 
-The [LC101 Course material](../courses/units) consists of 3 Units. 
+The [LC101 Course material](../course-staff-guide/courses/units) consists of 3 Units. 
 
 Link | Summary
 |------------|-------------|
-[Unit 1, Programming Fundamentals](../courses/units/#unit-1) | The core of coding
-[Unit 2, Web Fundamentals](../courses/units/#unit-2)  | The basics of web programming
-[Unit 3, Java or C#](../courses/units/#unit-3) | Back-end skill tracks oriented to job-ready skills
+[Unit 1, Programming Fundamentals](../units/#unit-1) | The core of coding
+[Unit 2, Web Fundamentals](../units/#unit-2)  | The basics of web programming
+[Unit 3, Java or C#](../units/#unit-3) | Back-end skill tracks oriented to job-ready skills
 
 
 Link to LaunchCode's website (student view) regarding [LC101](https://www.launchcode.org/lc101).

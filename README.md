@@ -12,17 +12,17 @@ Link | Summary
 
 [Welcome](../course-staff-guide/welcome/)
 - [Purpose](../course-staff-guide/welcome/purpose)
-- About LaunchCode Education
-- [What is LC101?](..course-staff-guide/courses/lc101)
-- Contributing to this resource
+- [About LaunchCode Education](../course-staff-guide/welcome/about-education)
+- [What is LC101?](../course-staff-guide/courses/lc101)
+- [Contributing to this resource](../course-staff-guide/welcome/contribution)
 
 [Instructors](../course-staff-guide/instructors)
-- Qualifications (Instructor Skill Sets)
-- Job Description/Responsibilities
-- Before class
-    - Preparation
-- In Class
-    - Typical class breakdown
+- [Qualifications (Instructor Skill Sets)](../course-staff-guide/instructors/qualifications)
+- [Job Description/Responsibilities](../course-staff-guide/instructors/job-description)
+- [Before class](../course-staff-guide/instructors/pre-class-prep)
+    - [Preparation](../course-staff-guide/instructors/pre-class-prep/#Best-ways-to-Prepare-for-class)
+- [In Class](../course-staff-guide/instructors/in-class)
+    - [Typical class breakdown](../course-staff-guide/instructors/in-class/#typical-class-breakdown)
     - Teaching to learners from different backgrounds
     - Types of presentations/lectures
     - Getting feedback from learners
@@ -32,23 +32,23 @@ Link | Summary
     - Coaching
 
 [Teaching Fellows](../course-staff-guide/teaching-fellows)
-- Qualifications (Teaching Fellow Skill Sets)
-- Job Description/Responsibilities 
-- Before class
+- [Qualifications (Teaching Fellow Skill Sets)](../course-staff-guide/teaching-fellows/qualifications)
+- [Job Description/Responsibilities](../course-staff-guide/teaching-fellows/job-description) 
+- [Before class](../course-staff-guide/teaching-fellows)
     - Reviewing lesson material
-- In Class
-    - How to lead a group/review session
-    - Helping with Studios
-    - Checking in on students
-    - Pairing facilitation
-        - Grading
-        - Attendance
-- Outside of Class
-    - Working with students
-    - Getting started with your group
-    - Common student struggles
-    - How to work with difficult students
-    - Getting help
+- [In Class](../course-staff-guide/teaching-fellows/in-class)
+    - [How to lead a group/review session](../course-staff-guide/teaching-fellows/in-class)
+    - [Helping with Studios](../course-staff-guide/teaching-fellows/in-class)
+    - [Checking in on students](../course-staff-guide/teaching-fellows/in-class)
+    - [Pairing facilitation](../course-staff-guide/teaching-fellows/in-class)
+        - [Grading](../course-staff-guide/teaching-fellows/in-class)
+        - [Attendance](../course-staff-guide/teaching-fellows/in-class)
+- [Outside of Class](../course-staff-guide/teaching-fellows/out-of-class)
+    - [Working with students](../course-staff-guide/teaching-fellows/out-of-class)
+    - [Getting started with your group](../course-staff-guide/teaching-fellows/out-of-class)
+    - [Common student struggles](../course-staff-guide/teaching-fellows/out-of-class)
+    - [How to work with difficult students](../course-staff-guide/teaching-fellows/out-of-class)
+    - [Getting help](../course-staff-guide/teaching-fellows/out-of-class)
 
 [Course Details](../course-staff-guide/courses/)
 - [LC101](../course-staff-guide/courses/lc101)
