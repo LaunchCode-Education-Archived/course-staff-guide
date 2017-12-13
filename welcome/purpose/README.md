@@ -4,11 +4,12 @@ currentMenu: welcome/purpose
 ---
 
 ### LaunchCode’s Mission
-    to build a skilled workforce by creating pathways for driven people seeking careers in technology
+    
+to build a skilled workforce by creating pathways for driven people seeking careers in technology
 
 ### LaunchCode's Vision
 
-    is that everyone has the opportunity to pursue a career in tech
+is that everyone has the opportunity to pursue a career in tech
 
 ### Values we live by
 

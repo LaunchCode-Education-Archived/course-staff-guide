@@ -4,17 +4,17 @@ title: 'Contents'
 
 Link | Summary
 |------------|-------------|
-[Welcome](../course-staff-guide/welcome/) | LC Purpose and Focus
-[Instructors](../course-staff-guide/instructors)  | The people who teach the units
-[Teaching Fellows](../course-staff-guide/teaching-fellows) | The people who teach and support
-[Course Details](../course-staff-guide/courses/) | About the Units
-[Overview of Course Resources](../course-staff-guide/resources) | Overview of resources used in and during learning tracks
+[Welcome](./welcome/) | LC Purpose and Focus
+[Instructors](./instructors)  | The people who teach the units
+[Teaching Fellows](./teaching-fellows) | The people who teach and support
+[Course Details](./courses/) | About the Units
+[Overview of Course Resources](./resources) | Overview of resources used in and during learning tracks
 
-[Welcome](../course-staff-guide/welcome/)
-- [Purpose](../course-staff-guide/welcome/purpose)
-- [About LaunchCode Education](../course-staff-guide/welcome/about-education)
-- [What is LC101?](../course-staff-guide/courses/lc101)
-- [Contributing to this resource](../course-staff-guide/welcome/contribution)
+[Welcome](./welcome/)
+- [Purpose](./welcome/purpose)
+- [About LaunchCode Education](./welcome/about-education)
+- [What is LC101?](./courses/lc101)
+- [Contributing to this resource](./welcome/contribution)
 
 [Instructors](../course-staff-guide/instructors)
 - [Qualifications (Instructor Skill Sets)](../course-staff-guide/instructors/qualifications)
