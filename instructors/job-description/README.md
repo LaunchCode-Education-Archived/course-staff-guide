@@ -12,9 +12,9 @@ currentMenu: job-description
 
 <dl>
 <dt> General Responsibilities </dt>
-    <dd> Instructing students </dd>
-    <dd> Coordinating instruction with Teaching Fellows </dd>
-    <dd> Assisting students through coursework </dd>
+    <dd> Instruct students </dd>
+    <dd> Coordinate instruction with Teaching Fellows </dd>
+    <dd> Assist students through coursework </dd>
 </dl>
 
 <dl>

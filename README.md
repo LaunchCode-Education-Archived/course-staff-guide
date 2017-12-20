@@ -60,13 +60,16 @@ Link | Summary
     - [Unit 1](./courses/units)
     - [Unit 2](./courses/units/#unit-2)
     - [Unit 3](./courses/units/#unit-3)
-    - Liftoff
-- Apprenticeship/Candidate engagement overview
+    - [Liftoff](./courses/liftoff)
+- Apprenticeship/Candidate engagement overview(./courses/apprenticeship)
 
 [Course Resources](./resources)
-- Canvas
-- GitHub (how to use)
-- GitLab
-- Slack (how to use and paste code snippets)
-- Runestone
+- [Canvas](./resources/#canvas)
+- [GitHub (how to use)](./resources/#github)
+- [GitLab](./resources/#gitlab)
+- [Markdown](./resources/#markdown)
+- [Runestone](./resources/#runestone)
+- [Visual Studio Code](./resources/#visual-studio-code)
+- [Slack](./resources/#slack)
+
  
