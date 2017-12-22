@@ -83,15 +83,29 @@ Topics and Skills
 
 #### C-Sharp (C#) ####
 
-This track teaches essentials for C# developers wanting to create modern web applications. Students will learn important object-oriented concepts C#, along with essentials for building web applications with the ASP.NET Core MVC platform
-Core C# programming
 
-Procedural C#
-- Data types
+The C# track covers the essentials of object-oriented C# development, along with portions of the ASP.NET MVC framework.
+
+C# is one of the more prominent object-oriented languages, and is widely used by professional programmers. You learned a bit about classes and objects as we completed Unit 1, but we'll dive much deeper this time. In addition to creating classes to serve as blueprints for objects, we'll look at the many ways that class and objects can be used to create robust and flexbile programs.
+
+After covering object-oriented concepts, we'll turn to ASP.NET MVC. The Microsoft .NET framework is a large C# framework that has several large components. We will focus primiarly on the ASP.NET MVC component, and more precisely ASP.NET MVC Core. This framework is used to build MVC web applications in C#, including all of the categories of functionality that we saw in Unit 2: templating, database integration, routing, etc.
+
+Once you complete these classes, you will be well equipped to create a final project!
+
+Topics
+- C# and Object-oriented Programming
+- Characteristics of the C# langauge, and procedural C# syntax
+- Objects and classes
+- Unit Tests
+- Inheritance, polymorphism and interfaces
+- Exceptions
 - C# collections
 - Proper use of exceptions
 - Static modifiers
 - LINQ
+- Dependency injection
+- ASP.NET MVC
+- Templating
 - Object-oriented skills and principles
 - Defining classes and creating objects
 - Inheritance

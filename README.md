@@ -4,7 +4,7 @@ title: 'Contents'
 
 Link | Summary
 |------------|-------------|
-[Welcome](./welcome/) | LC Purpose and Focus
+[Welcome](./welcome/purpose) | LC Purpose and Focus
 [Instructors](./instructors)  | The people who teach the units
 [Teaching Fellows](./teaching-fellows) | The people who teach and support
 [Course Details](./courses/) | About the Units
@@ -61,11 +61,11 @@ Link | Summary
     - [Unit 2](./courses/units/#unit-2)
     - [Unit 3](./courses/units/#unit-3)
     - [Liftoff](./courses/liftoff)
-- Apprenticeship/Candidate engagement overview(./courses/apprenticeship)
+- [Apprenticeship](./courses/apprentice)
 
 [Course Resources](./resources)
 - [Canvas](./resources/#canvas)
-- [GitHub (how to use)](./resources/#github)
+- [GitHub](./resources/#github)
 - [GitLab](./resources/#gitlab)
 - [Markdown](./resources/#markdown)
 - [Runestone](./resources/#runestone)
